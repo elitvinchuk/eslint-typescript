@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "pretty": true,
+    "strict": true,
+    "target": "esnext",
+    "noEmit": true
+  },
+  "include": [
+    ".eslintrc.js",
+    "src"
+  ]
+}
